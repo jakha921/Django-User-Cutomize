@@ -1,6 +1,6 @@
 # Django User Customization
 
-## Setup repo on your dives
+## Setup The Repo
 
 1. run `git clone https://github.com/jakha921/Django-User-Cutomize.git` on you cmd or PowerShell
 2. create venv:
